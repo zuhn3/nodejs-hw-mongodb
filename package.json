@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oleksiikorolenko/nodejs-hw-mongodb.git"
+    "url": "git+https://github.com/zuhn3/nodejs-hw-mongodb.git"
   },
   "keywords": [],
-  "author": "Oleksii Korolenko <korolenkoalexey84@gmail.com>",
+  "author": "Andrii Panchenko <aop1603@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/oleksiikorolenko/nodejs-hw-mongodb/issues"
+    "url": "https://github.com/zuhn3/nodejs-hw-mongodb/issues"
   },
-  "homepage": "https://github.com/oleksiikorolenko/nodejs-hw-mongodb#readme",
+  "homepage": "https://github.com/zuhn3/nodejs-hw-mongodb#readme",
   "devDependencies": {
     "@eslint/js": "^9.35.0",
     "@eslint/json": "^0.13.2",
